@@ -1,1 +1,58 @@
-﻿# Syed's Enterprises\n\nA React 19 + Vite website combining Tailwind utilities, custom responsive CSS, Framer Motion and React Three Fiber / Three.js spatial scenes.\n\n## Requirements\n- Node.js 20.19+ or 22.12+\n- npm\n\n## Local development\n`ash\nnpm install\nnpm run dev\n`\n\n## Production build\n`ash\nnpm run build\nnpm run preview\n`\nThe deployable static output is dist/. Do not commit node_modules/ or local secrets.\n\n## Cloudflare Pages deployment\n1. Push this repository to GitHub.\n2. Create a Cloudflare Pages project connected to the GitHub repository.\n3. Framework preset: Vite.\n4. Build command: npm run build.\n5. Build output directory: dist.\n6. No environment variables are currently required for the static site.\n7. Add the custom domain after the first successful deployment and verify HTTPS.\n\nEvery push to the production branch triggers a new build. Check preview deployments before merging.\n\n## Architecture\n- src/main.jsx — React application, navigation and page composition.\n- src/components/WorldScene.jsx — interactive Three.js connected-world scene.\n- src/components/FounderHologram.jsx — portrait projection, floating holographic frame and platform.\n- src/data/siteContent.jsx — venture, product, service and roadmap content.\n- src/content/posts.js — static journal content.\n- public/ — static assets, robots.txt and sitemap.xml.\n\n## Routes\n/, /about, /ventures, /products, /services, /roadmap, /founder, /contact, /blog and /blog/:slug.\n\n## Important production notes\n- The contact form is currently front-end only. It does not transmit or store submissions. Connect a secured form endpoint before advertising it as a working submission form.\n- Venture status labels describe project state; external destinations are not uptime or ownership guarantees.\n- 3D scenes use WebGL. Test on mobile GPUs and with reduced-motion preferences.\n- Update canonical and sitemap URLs if the production domain changes.\n- Founder image: public/founder-hologram.webp.\n
+# Syed Enterprises — One Company, Many Ventures
+
+Live site: https://syedsenterprises.org
+
+Syed Enterprises is a one-founder venture company run by Syed Shahed, a final-year
+B.Sc. Computer Science student at St. Mary's College, Hyderabad. One company,
+nine ventures — real estate, AI tools, gym software, a CRM, digital products,
+gaming and more.
+
+## The website
+
+Midnight navy and gold theme. A fast static site with 8 pages — Home, About,
+Ventures, Products, Services, Roadmap, Founder, Contact — using hash routing,
+a liquid animated background, a labeled venture orbit, a glass-office HQ
+diorama, cursor effects and a validation-only contact form. There is no blog
+route on this site; blog posts are planned for a separate subdomain later.
+
+## Ventures
+
+- **Estate Path** — https://www.estatepath.online — Florida real estate guides, mortgage calculator and exam prep
+- **LookForIt** — https://www.lookforit.xyz — directory of verified AI tools
+- **RepRoster** — https://www.reproaster.store — gym management software
+- **Real Estate CRM** — https://crm.estatepath.online — CRM for real estate agencies
+- **Let Us Assume** — https://www.letusassume.in — money-making guides for India
+- **Nano Ghost Gamer** — gaming YouTube channel
+- **Web3User** — experimental Web3 project (not for real funds)
+- **Gumroad digital products** — https://syedventures.gumroad.com — Florida real estate exam prep packs
+- **GitHub open source** — https://github.com/syedsenterprises — games, calculators, tools and themes
+
+## Local development
+
+```bash
+npm install
+npm run dev
+```
+
+## Production build
+
+```bash
+npm run build
+npm run preview
+```
+
+The site entry is the self-contained page at root `index.html`; the build output
+is `dist/`. Do not commit `node_modules/` or local secrets. The previous React
+app under `src/` is no longer referenced by the live site.
+
+## Deployment
+
+Push to `main` triggers the Cloudflare build (`npm run build` → `dist/`) and
+deploys to https://syedsenterprises.org. `public/sitemap.xml` and
+`public/robots.txt` describe the current 8 pages.
+
+## Contact
+
+- Email: syedsinterprises@gmail.com
+- LinkedIn: https://www.linkedin.com/in/syedsenterprises
+- GitHub: https://github.com/syedsenterprises
