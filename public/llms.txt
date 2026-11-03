@@ -1,0 +1,83 @@
+# Syed Enterprises
+
+> Syed Enterprises is a one-founder company founded by Syed Shahed. It runs nine live ventures across real estate, software, digital products and gaming, each solving one clear problem for one clear audience.
+
+## Quick facts
+
+- Company: Syed Enterprises
+- Tagline: One Company, Many Ventures
+- Founder and CEO: Syed Shahed
+- Location: Hyderabad, Telangana, India
+- Founder background: Final-year BSc Computer Science student at St. Mary's College, Hyderabad
+- Website: https://syedsenterprises.org/
+- Contact email: syedsenterprises@gmail.com
+- Founder portrait: https://syedsenterprises.org/assets/founder-profile.webp
+
+## Entity disambiguation
+
+Syed Enterprises in this file is the one-founder company founded by Syed Shahed in Hyderabad, India, at https://syedsenterprises.org/ — not any other business with a similar name.
+
+## Pages
+
+- Home: https://syedsenterprises.org/#/
+- About: https://syedsenterprises.org/#/about
+- Ventures: https://syedsenterprises.org/#/ventures
+- Products: https://syedsenterprises.org/#/products
+- Services: https://syedsenterprises.org/#/services
+- Roadmap: https://syedsenterprises.org/#/roadmap
+- Founder: https://syedsenterprises.org/#/founder
+- Contact: https://syedsenterprises.org/#/contact
+
+## Ventures
+
+- Estate Path — Florida real estate guides and exam prep — https://www.estatepath.online
+- LookForIt — an AI tools directory — https://www.lookforit.xyz
+- Let Us Assume — earning guides for India — https://www.letusassume.in
+- RepRoster — gym management software — https://reproaster.store
+- Estate Path CRM — a CRM for real estate agencies — https://crm.estatepath.online
+- Web3User — an experimental open-web SDK — https://web3user.tech
+- Nano Ghost Gamer — a gaming YouTube channel — https://www.youtube.com/@nanoghostgamer
+- Digital Products — a Gumroad store — https://syedventures.gumroad.com
+- Open Source — public code on GitHub — https://github.com/syedsenterprises
+
+## Products
+
+- Florida Real Estate Exam Practice Pack — $14.99 — https://syedventures.gumroad.com/l/wnqwkw
+- Free Sample: 10 Practice Questions — Free — https://syedventures.gumroad.com/l/ybvjnno
+- Florida Real Estate Exam Cheat Sheets — $7.99 — https://syedventures.gumroad.com/l/cheatsheets
+- Florida Real Estate Math Workbook — $9.99 — https://syedventures.gumroad.com/l/mathworkbook
+- Florida Real Estate Exam Complete Kit — $21.99 — https://syedventures.gumroad.com/l/ezyibg
+- Complete Kit + Cheat Sheets Bundle — $27.99 — https://syedventures.gumroad.com/l/mpvib
+- Florida Real Estate Exam Formula Sheet — $0+ — https://syedventures.gumroad.com/l/hybqs
+- Cat Training Guide — $7.99 — https://syedventures.gumroad.com/l/nmwgn
+- Cat Catcher — $3.99 — https://syedventures.gumroad.com/l/fuytfo
+
+## Services
+
+- SEO article service: $55 per article, delivered in 4 days. A 1000–1200 word SEO article with 2+ images, a focus keyword and semantic keywords, 2+ internal links, and an SEO title and description.
+- SEO content writing for real estate blogs, web apps and tools, game development, and digital products. Every service is backed by a live project linked from the Services page: https://syedsenterprises.org/#/services
+
+## Frequently asked questions
+
+Q: What is Syed Enterprises?
+A: Syed Enterprises is a one-founder company founded by Syed Shahed. It runs nine live ventures across real estate, software, digital products and gaming, each solving one clear problem for one clear audience.
+
+Q: Who is the founder of Syed Enterprises?
+A: Syed Shahed is the Founder & CEO of Syed Enterprises. He is a final-year BSc Computer Science student at St. Mary's College, Hyderabad, and he builds and runs every venture on this site himself.
+
+Q: What are the nine ventures of Syed Enterprises?
+A: Estate Path (Florida real estate guides and exam prep), LookForIt (an AI tools directory), Let Us Assume (earning guides for India), RepRoster (gym management software), Estate Path CRM (a CRM for real estate agencies), Web3User (an experimental open-web SDK), Nano Ghost Gamer (a gaming YouTube channel), Digital Products (a Gumroad store) and Open Source (public code on GitHub). All nine are listed with live links on the Ventures page.
+
+Q: What services does Syed Enterprises offer?
+A: SEO content writing for real estate blogs, web apps and tools, game development, and digital products. Every service is backed by a live project linked from the Services page.
+
+Q: What can I buy from Syed Enterprises?
+A: The Gumroad store sells Florida real estate exam prep: a 150-question practice pack for $14.99, six cheat-sheet cards for $7.99, a math workbook for $9.99, and bundles up to $27.99. A 10-question sample and a formula sheet are free. See the Products page.
+
+Q: How do I contact Syed Enterprises?
+A: Through its ventures: each venture site is the front door to its own team of one. The Contact page links to Estate Path, LookForIt, RepRoster, GitHub and YouTube. The form on that page validates your message in the browser only — it does not send or store anything.
+
+## Contact
+
+- Email: syedsenterprises@gmail.com
+- Contact page: https://syedsenterprises.org/#/contact
