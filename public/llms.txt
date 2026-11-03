@@ -10,7 +10,7 @@
 - Location: Hyderabad, Telangana, India
 - Founder background: Final-year BSc Computer Science student at St. Mary's College, Hyderabad
 - Website: https://syedsenterprises.org/
-- Contact email: syedsenterprises@gmail.com
+- Contact email: contact@syedsenterprises.org
 - Founder portrait: https://syedsenterprises.org/assets/founder-profile.webp
 
 ## Entity disambiguation
@@ -79,5 +79,5 @@ A: Through its ventures: each venture site is the front door to its own team of 
 
 ## Contact
 
-- Email: syedsenterprises@gmail.com
+- Email: contact@syedsenterprises.org
 - Contact page: https://syedsenterprises.org/#/contact
