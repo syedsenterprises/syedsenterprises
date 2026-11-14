@@ -36,7 +36,7 @@
 | 📚 **Gumroad products** | Florida real estate exam prep packs | [syedventures.gumroad.com](https://syedventures.gumroad.com) |
 | 📊 **Command Dashboard** | All earnings, methods & progress in one place | [syedsenterprises.github.io/dashboard](https://syedsenterprises.github.io/dashboard/) |
 
-> 💰 **Building in public, honestly:** $20 earned so far, on the road to a $2,000 revenue goal. First sale: a $20 dofollow link placement for Krea on LookForIt.
+> 💰 **Building in public, honestly:** $23 earned so far, on the road to a $2,000 revenue goal. First sale: a $20 sponsored link placement for Krea on LookForIt.
 
 ---
 
