@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=F2C94C&center=true&vCenter=true&width=600&lines=One+Company%2C+Many+Ventures;Building+in+public%2C+every+day;Founder+%E2%80%94+Syed+Enterprises" alt="Typing animation" />
 </a>
 
-### Hi, I'm Syed Shahid 👋 — a final-year B.Sc. Computer Science student from Hyderabad, building a one-founder venture company in public.
+### Hi, I'm Syed Shahed 👋 — a final-year B.Sc. Computer Science student from Hyderabad, building a one-founder venture company in public.
 
 [![Website](https://img.shields.io/badge/Website-syedsenterprises.org-0A1931?style=for-the-badge&logo=googlechrome&logoColor=F2C94C)](https://syedsenterprises.org)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Syed_Shahed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedsenterprises)
@@ -36,7 +36,7 @@
 | 📚 **Gumroad products** | Florida real estate exam prep packs | [syedventures.gumroad.com](https://syedventures.gumroad.com) |
 | 📊 **Command Dashboard** | All earnings, methods & progress in one place | [syedsenterprises.github.io/dashboard](https://syedsenterprises.github.io/dashboard/) |
 
-> 💰 **Building in public, honestly:** $20 earned so far, on the road to a $2,000 revenue goal. First sale: a $20 sponsored link placement for Krea on LookForIt.
+> 💰 **Building in public, honestly:** $23 earned so far, on the road to a $2,000 revenue goal. First sale: a $20 sponsored link placement for Krea on LookForIt.
 
 ---
 
