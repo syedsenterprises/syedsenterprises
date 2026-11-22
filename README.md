@@ -21,7 +21,7 @@
 ---
 
 
-Sponsor my open-source work: https://github.com/sponsors/syedsenterprises
+:heart: Sponsor my open-source work: https://github.com/sponsors/syedsenterprises
 
 ## 🚀 What I'm building
 
