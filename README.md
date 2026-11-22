@@ -20,6 +20,9 @@
 
 ---
 
+
+Sponsor my open-source work: https://github.com/sponsors/syedsenterprises
+
 ## 🚀 What I'm building
 
 **Syed Enterprises** — one company, nine ventures: real estate, AI tools, gym software, a CRM, digital products, gaming and more. Everything below is live, and everything is built in public.
