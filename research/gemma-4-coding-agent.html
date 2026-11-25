@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Graph-First, Reproduce-First: A Small-Model Coding Agent Design for Gemma 4 E4B — Syed Shahed | Syed Enterprises</title>
+<meta name="description" content="A small-model coding agent design for Google's Gemma 4 E4B, tested on 129 real tasks: 12 solved (9.3%) in 3h 34m. Graph-first localisation, reproduce-first patching, and hard per-task caps. By Syed Shahed. DOI 10.5281/zenodo.24538057.">
+<link rel="canonical" href="https://syedsenterprises.org/research/gemma-4-coding-agent.html">
+<meta name="author" content="Syed Shahed">
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Graph-First, Reproduce-First: A Small-Model Coding Agent Design for Gemma 4 E4B">
+<meta property="og:description" content="A coding agent for Google's Gemma 4 E4B, tested on 129 real tasks: 12 solved (9.3%) in 3h 34m. By Syed Shahed. Open access on Zenodo.">
+<meta property="og:url" content="https://syedsenterprises.org/research/gemma-4-coding-agent.html">
+<meta property="og:site_name" content="Syed Enterprises">
+<meta property="article:published_time" content="2026-11-25">
+<meta property="article:author" content="Syed Shahed">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Graph-First, Reproduce-First: A Small-Model Coding Agent for Gemma 4 E4B">
+<meta name="twitter:description" content="12 of 129 tasks solved (9.3%) in 3h 34m. A small-model coding agent, measured honestly. DOI 10.5281/zenodo.24538057.">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "headline": "Graph-First, Reproduce-First: A Small-Model Coding Agent Design for Gemma 4 E4B Under a 12-Hour Budget",
+  "author": {"@type": "Person", "name": "Syed Shahed", "affiliation": {"@type": "Organization", "name": "Syeds Enterprises"}, "url": "https://syedsenterprises.org/"},
+  "datePublished": "2026-11-25",
+  "publisher": {"@type": "Organization", "name": "Syed Enterprises", "url": "https://syedsenterprises.org/"},
+  "isPartOf": {"@type": "Periodical", "name": "Zenodo"},
+  "sameAs": ["https://doi.org/10.5281/zenodo.24538057", "https://zenodo.org/records/24538057"],
+  "identifier": {"@type": "PropertyValue", "propertyID": "DOI", "value": "10.5281/zenodo.24538057"},
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "about": ["Gemma 4", "coding agent", "small language model", "reproduce-first", "graph-first", "LoRA"],
+  "abstract": "A small-model coding agent design for Google's Gemma 4 E4B, built around graph-first localisation, reproduce-first patching and hard per-task caps, evaluated on 129 real tasks: 12 solved (9.3%) in 3 hours 34 minutes.",
+  "url": "https://syedsenterprises.org/research/gemma-4-coding-agent.html"
+}
+</script>
+<style>
+  body{margin:0;font-family:system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;background:#fff;color:#111827;line-height:1.7}
+  main{max-width:760px;margin:0 auto;padding:32px 20px 64px}
+  a{color:#0f766e}
+  nav{font-size:14px;color:#6b7280;margin-bottom:24px}
+  h1{font-size:28px;line-height:1.25;margin:0 0 8px}
+  h2{font-size:20px;margin:32px 0 8px}
+  p,li{font-size:16px}
+  .meta{color:#6b7280;font-size:14px;margin-bottom:20px}
+  .doi{background:#f0fdfa;border:1px solid #99f6e4;border-radius:8px;padding:12px 16px;margin:20px 0}
+  .doi a{font-weight:600}
+  .btn{display:inline-block;background:#0f766e;color:#fff;text-decoration:none;font-weight:600;padding:10px 18px;border-radius:8px;margin:6px 8px 6px 0}
+  .btn.ghost{background:#fff;color:#0f766e;border:1px solid #0f766e}
+  .stat{background:#f9fafb;border:1px solid #e5e7eb;border-radius:8px;padding:14px 16px;margin:16px 0}
+  .stat b{font-size:20px}
+  ul{padding-left:20px}
+  footer{border-top:1px solid #e5e7eb;margin-top:48px;padding-top:16px;font-size:14px;color:#6b7280}
+</style>
+</head>
+<body>
+<main>
+  <nav><a href="https://syedsenterprises.org/">Syed Enterprises</a> &rsaquo; <a href="./">Research</a> &rsaquo; Gemma 4 Coding Agent</nav>
+  <h1>Graph-First, Reproduce-First: A Small-Model Coding Agent Design for Gemma 4 E4B Under a 12-Hour Budget</h1>
+  <p class="meta"><strong>Syed Shahed</strong> &middot; Syeds Enterprises, Hyderabad, India &middot; Published 25 November 2026 &middot; Open access (CC-BY-4.0)</p>
+
+  <div class="doi">DOI: <a href="https://doi.org/10.5281/zenodo.24538057">10.5281/zenodo.24538057</a> &middot; Zenodo record: <a href="https://zenodo.org/records/24538057">zenodo.org/records/24538057</a></div>
+
+  <p>
+    <a class="btn" href="https://zenodo.org/records/24538057/files/gemma4-paper-overleaf.pdf?download=1">Download the PDF</a>
+    <a class="btn ghost" href="https://doi.org/10.5281/zenodo.24538057">Read on Zenodo</a>
+    <a class="btn ghost" href="./">All research</a>
+  </p>
+
+  <h2>Abstract</h2>
+  <p>Large language models can write code, but the biggest ones are expensive to run. Small models are cheap and fast, but they fail in ways that are hard to predict. This paper asks whether a small model — Google's Gemma 4 E4B — can be turned into a useful coding agent if the <em>design</em> does the heavy lifting instead of model size. It proposes a graph-first, reproduce-first agent: map the repository as a graph before editing, reproduce the bug before writing a fix, and enforce hard per-task time and token caps. The agent was evaluated on 129 real coding tasks and solved <strong>12 of 129 (9.3%) in 3 hours 34 minutes</strong>. The paper reports the failures as carefully as the wins, so the next builder can see exactly where a small-model agent breaks.</p>
+
+  <h2>Key result</h2>
+  <div class="stat"><b>12 / 129 tasks solved (9.3%)</b> in 3h 34m.<br>Wins by project: FastAPI 7, Rich 4, Requests 1.<br>Failures: 69 patches failed the tests, 42 execution errors, 4 timeouts, 2 verification failures, 13 no patch.</div>
+
+  <h2>How the agent works</h2>
+  <ul>
+    <li><strong>Graph-first localisation.</strong> Before touching code, the agent maps the repository as a graph — which files import which, where the relevant functions live — so it edits the right place instead of guessing.</li>
+    <li><strong>Reproduce-first patching.</strong> Before writing a fix, the agent reproduces the bug. No reproduction, no patch. This stops the agent from "fixing" things it does not understand.</li>
+    <li><strong>Hard per-task caps.</strong> Every task gets a fixed time and token budget, configured in a single file (<code>eval_config.yaml</code>). When the budget runs out, the agent stops. This keeps a 129-task run inside a 12-hour budget.</li>
+    <li><strong>LoRA on its own wins only.</strong> Training uses LoRA fine-tuning on the agent's own past successes, and only on public tasks.</li>
+  </ul>
+
+  <h2>Why it matters</h2>
+  <p>If you are building AI tools on a student budget, or deploying them where a large model is not an option, small models are the only choice. This paper is a field report from that constraint: what a 4-billion-parameter model can actually do as a coding agent, measured end to end, with the failures included. The 9.3% result is below the 15.4% figure published for the reference scaffold — the paper is honest about that. The contribution is the design, and a complete failure breakdown the next person can build on.</p>
+
+  <h2>Context</h2>
+  <p>This paper was submitted to the Paper Track of the <strong>Gemma 4 Developer Agent Competition</strong> (Google DeepMind / Kaggle). It builds on the author's own agent projects, including the Jarvis Core HUD and a personal RAG system.</p>
+
+  <h2>Cite this paper</h2>
+  <p>Shahed, S. (2026). <em>Graph-First, Reproduce-First: A Small-Model Coding Agent Design for Gemma 4 E4B Under a 12-Hour Budget.</em> Zenodo. https://doi.org/10.5281/zenodo.24538057</p>
+
+  <p><a href="./hyderabad-air-quality.html">&larr; See the other paper: Hyderabad's Air Quality, 2015–2020</a></p>
+
+  <footer>Syed Shahed is a final-year BSc Computer Science student at St. Mary's College, Hyderabad, and Founder &amp; CEO of <a href="https://syedsenterprises.org/">Syed Enterprises</a>. Contact: <a href="mailto:contact@syedsenterprises.org">contact@syedsenterprises.org</a>.</footer>
+</main>
+</body>
+</html>
