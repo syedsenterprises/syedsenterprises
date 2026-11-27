@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://syedsenterprises.org/</loc><lastmod>2026-11-26</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://syedsenterprises.org/privacy.html</loc><lastmod>2026-11-25</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://syedsenterprises.org/research/</loc><lastmod>2026-11-26</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://syedsenterprises.org/research/gemma-4-coding-agent.html</loc><lastmod>2026-11-25</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://syedsenterprises.org/research/hyderabad-air-quality.html</loc><lastmod>2026-11-25</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://syedsenterprises.org/</loc><lastmod>2026-11-28</lastmod></url>
+  <url><loc>https://syedsenterprises.org/articles.html</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://syedsenterprises.org/syed-enterprises-story.html</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://syedsenterprises.org/building-software-with-ai-prompts.html</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://syedsenterprises.org/start-business-student-no-money-india.html</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://syedsenterprises.org/privacy.html</loc><lastmod>2026-11-28</lastmod></url>
 </urlset>
